@@ -6,7 +6,7 @@ const constants = {
 }
 // Board class //
 
-class   {
+class Board {
 	constructor(boardHolder) {
 		this.boardHolder = boardHolder;
 		this.resultHolder = document.getElementById('level-result');
